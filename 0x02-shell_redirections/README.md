@@ -1,0 +1,1 @@
+The scripts in this project concern various scenarios on shell input and output redirections
