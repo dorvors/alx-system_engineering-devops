@@ -1,7 +1,0 @@
-#!/bin/bash
-set | sort
-#!/bin/bash
-
-for v in "${!local:*}" "${!ENV:*}" "${!functions:*}"
-d  echo "$v"
-done
